@@ -1,0 +1,11 @@
+/Users/mihainich/Projects/Project0/Project0/bin/Debug/netcoreapp3.0/Project0
+/Users/mihainich/Projects/Project0/Project0/bin/Debug/netcoreapp3.0/Project0.deps.json
+/Users/mihainich/Projects/Project0/Project0/bin/Debug/netcoreapp3.0/Project0.runtimeconfig.json
+/Users/mihainich/Projects/Project0/Project0/bin/Debug/netcoreapp3.0/Project0.runtimeconfig.dev.json
+/Users/mihainich/Projects/Project0/Project0/bin/Debug/netcoreapp3.0/Project0.dll
+/Users/mihainich/Projects/Project0/Project0/bin/Debug/netcoreapp3.0/Project0.pdb
+/Users/mihainich/Projects/Project0/Project0/obj/Debug/netcoreapp3.0/Project0.csprojAssemblyReference.cache
+/Users/mihainich/Projects/Project0/Project0/obj/Debug/netcoreapp3.0/Project0.AssemblyInfoInputs.cache
+/Users/mihainich/Projects/Project0/Project0/obj/Debug/netcoreapp3.0/Project0.AssemblyInfo.cs
+/Users/mihainich/Projects/Project0/Project0/obj/Debug/netcoreapp3.0/Project0.dll
+/Users/mihainich/Projects/Project0/Project0/obj/Debug/netcoreapp3.0/Project0.pdb

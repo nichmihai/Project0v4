@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6BA50EE9-7363-4D7B-81CE-8B5302F93F44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project0/BankAccount.cs">
+    <Files>
+      <File FileName="Project0/Program.cs" Line="122" Column="52" />
+      <File FileName="Project0/BankAccount.cs" Line="76" Column="12" />
+      <File FileName="Project0/Customer.cs" Line="28" Column="1" />
+      <File FileName="Project0/IAccount.cs" Line="6" Column="9" />
+      <File FileName="Project0/CheckingAccount.cs" Line="42" Column="76" />
+      <File FileName="Project0/BusinessAccount.cs" Line="54" Column="10" />
+      <File FileName="Project0/Transaction.cs" Line="1" Column="1" />
+      <File FileName="Project0/Loan.cs" Line="44" Column="14" />
+      <File FileName="Project0/ICustomer.cs" Line="1" Column="1" />
+      <File FileName="Project0/Account.cs" Line="11" Column="5" />
+      <File FileName="Project0/TermDeposit.cs" Line="58" Column="93" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project0" expanded="True">
+            <Node name="Project0" expanded="True">
+              <Node name="BankAccount.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Project0 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
